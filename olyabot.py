@@ -25,7 +25,7 @@ class vk_bot:
         vk.method('messages.send',{'peer_id': id,'message':text,'random_id':0})           
     
     def random_text(self):
-        a = ["Доброе утро, девочки!☀", "Все сюда, цыпочки🐣","Прокладки завезли!🥳"]
+        a = ["тест"]
         res = a[random.randint(0,len (a)-1)]
         return res
     
