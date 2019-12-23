@@ -1,6 +1,5 @@
 vk_api
 dlib
-shutil
 requests
 codecs
 numpy
