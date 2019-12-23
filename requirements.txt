@@ -3,6 +3,6 @@ dlib
 shutil
 requests
 codecs
-numpy as np
+numpy
 skimage
 scipy
