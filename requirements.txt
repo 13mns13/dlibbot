@@ -1,1 +1,8 @@
 vk_api
+dlib
+shutil
+requests
+codecs
+numpy as np
+skimage
+scipy
