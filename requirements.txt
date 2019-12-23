@@ -1,7 +1,6 @@
 vk_api
 dlib
 requests
-codecs
 numpy
 skimage
 scipy
