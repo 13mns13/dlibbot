@@ -30,6 +30,6 @@ def response(token, i):
     f.close()
         
 
-main("ТОКЕН")
+main("token_id")
 
 print('Done!')
