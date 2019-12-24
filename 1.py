@@ -1,7 +1,7 @@
 import vk_api
 import time, codecs
-import os, sys, shutil, requests
-import os.path, json, dlib
+import os, requests
+import os.path, json
 
 ff=codecs.open('ids.txt', 'w', encoding='utf8')
 
